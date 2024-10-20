@@ -1,3 +1,2 @@
-<<<<<<< HEADR=
-Python Practice Programs
+         Python Practice Programs
 
